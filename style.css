@@ -88,6 +88,13 @@ h2 {
     margin-bottom: 0.5rem;
 }
 
+.project-brand-image {
+    display: block;
+    width: min(240px, 100%);
+    height: auto;
+    margin-bottom: 1.25rem;
+}
+
 .project-card h3 a {
     color: var(--primary-color);
     text-decoration: none;
@@ -171,6 +178,32 @@ h2 {
     background-color: var(--secondary-color);
     transform: translateY(-1px);
     cursor: pointer;
+}
+
+/* More Projects */
+.more-projects {
+    margin-bottom: 2rem;
+    padding-top: 1rem;
+}
+
+.more-projects h2 {
+    font-size: 1.25rem;
+}
+
+.more-projects p {
+    color: var(--text-light);
+    line-height: 1.7;
+}
+
+.more-projects a {
+    color: var(--primary-color);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.more-projects a:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
 }
 
 /* Footer */
