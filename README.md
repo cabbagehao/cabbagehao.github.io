@@ -31,7 +31,7 @@ A comprehensive free Morse code translator with multi-format support.
 
 ## 📄 License
 
-All rights reserved © 2025
+All rights reserved © 2026
 
 ---
 
